@@ -12,6 +12,8 @@ public class Bhushan {
 		
 		sum=a+b;
 	    System.out.println("the sum of the two numbers : "+ sum);
+		System.out.println("me hi mazyasathi change kelay : "+ sum);
+		
 		 
 		 
 
